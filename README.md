@@ -9,6 +9,7 @@
 [![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?style=flat&logo=flutter)](https://flutter.dev)
 [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-lightgrey?style=flat)](https://github.com)
 [![Version](https://img.shields.io/badge/Version-1.0.0-7C3AED?style=flat)](https://github.com)
+[![Website](https://img.shields.io/badge/Website-Live-7C3AED?style=flat)](https://yalla-manwha.vercel.app/)
 
 </div>
 
@@ -20,7 +21,11 @@
 
 | Home | Search | Library | Profile |
 |------|--------|---------|---------|
-| <img src="screenshots/home.jpeg" width="200"/> | <img src="screenshots/search.jpeg" width="200"/> | <img src="screenshots/library.jpeg" width="200"/> | <img src="screenshots/profile.jpeg" width="200"/> |
+| <img src="screenshots/home.jpeg" width="180"/> | <img src="screenshots/search.jpeg" width="180"/> | <img src="screenshots/library.jpeg" width="180"/> | <img src="screenshots/profile.jpeg" width="180"/> |
+
+| Manga Details | Reader |
+|---------------|--------|
+| <img src="screenshots/manga_details.jpeg" width="180"/> | <img src="screenshots/reader.jpeg" width="180"/> |
 
 </div>
 
